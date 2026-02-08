@@ -14,28 +14,6 @@
   <img src="https://img.shields.io/badge/IISc-Alumni-111111" />
 </p>
 
-<p align="center">
-  <!-- Languages / tools badges (with logos) -->
-  <img src="https://img.shields.io/badge/Python-111111?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-111111?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-111111?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-111111?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111111?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111111?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?logo=docker&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Icon row (SVGs) — Devicon + ROOT official SVG -->
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="34" src="https://root.cern.ch/img/logos/ROOT_Logo/misc/ROOT_black.svg" />
-</p>
 
 ---
 
@@ -62,7 +40,32 @@ My focus is on **Higgs pair production (HH → bbττ)** in Run-3 data, and on *
 
 ---
 
-## Selected Projects (pinned)
+<p align="center">
+  <!-- Languages / tools badges (with logos) -->
+  <img src="https://img.shields.io/badge/Python-111111?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-111111?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Icon row (SVGs) — Devicon + ROOT official SVG -->
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="34" src="https://root.cern.ch/img/logos/ROOT_Logo/misc/ROOT_black.svg" />
+</p>
+
+---
+
+## Projects
 A few repos I’m actively developing or maintaining are pinned below — mostly analysis code, studies, and some fun.
 
 
