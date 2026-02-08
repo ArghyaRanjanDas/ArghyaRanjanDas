@@ -58,11 +58,16 @@ My focus is on **Higgs pair production (HH → bbττ)** in Run-3 data, and on *
   <img src="https://img.shields.io/badge/Linux-111111?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111111?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-111111?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-111111?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-111111?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Awkward%20Array-111111" />
 </p>
 
 <p align="center">
   <!-- Icon row (SVGs) — Devicon + ROOT official SVG -->
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
