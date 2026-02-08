@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>PhD student (Physics) @ Purdue</b> • <b>CMS Collaboration</b><br/>
+  <b>PhD student (Dept. Physics & Astronomy) @ Purdue</b> • <b>CMS Collaboration</b><br/>
   CERN + Fermilab • Di-Higgs (HH → bbττ) • trigger-level/scouting • hardware-aware ML
 </p>
 
