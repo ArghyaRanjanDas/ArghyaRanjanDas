@@ -19,8 +19,11 @@
 <p align="center">
   <!-- Quick links (replace # with your real URLs) -->
   <a href="https://orcid.org/0000-0001-8451-0806"><img src="https://img.shields.io/badge/ORCID-111111?logo=orcid&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/INSPIRE--HEP-111111" /></a>
-</p>
+  <a href="https://inspirehep.net/authors/2052910?ui-citation-summary=true"
+   target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/INSPIRE--HEP-111111" />
+</a>
+
 
 <p align="center">
   <!-- Affiliation / HEP badges -->
