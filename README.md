@@ -79,7 +79,7 @@ My focus is on **Higgs pair production (HH → bbττ)** in Run-3 data, and on *
 
 ---
 
-## Stats Dashboard (no workflows)
+## Stats Dashboard
 
 
 <p align="center">
