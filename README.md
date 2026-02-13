@@ -1,7 +1,7 @@
 <!-- Profile README for ArghyaRanjanDas (no workflows / no Actions required) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Arghya%20Ranjan%20Das&fontSize=52&animation=fadeIn&desc=Purdue%20Physics%20PhD%20%E2%80%A2%20CMS%20Collaboration&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=170&section=header&text=Arghya%20Ranjan%20Das&fontSize=52&animation=fadeIn&desc=Purdue%20Physics%20PhD%20%E2%80%A2%20CMS%20Collaboration&descAlignY=75" />
 </p>
 
 <p align="center">
@@ -89,5 +89,5 @@ My focus is on **Higgs pair production (HH → bbττ)** in Run-3 data, and on *
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&section=footer" />
 </p>
