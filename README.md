@@ -38,7 +38,8 @@
 
 ## About
 I'm a PhD candidate in Physics at **Purdue University** working specifically in High Energy Physics at **CMS Experiment** at **LHC**, based at **CERN** and **Fermilab**.  
-My focus is on **Higgs pair production (HH → bbττ)** in Run-3 data, and on **efficient low-latency detector environments**, **ASIC/FPGA** 28 nm chip design and co-design, and efficient **real-time ML** for **HEP detector** .
+My focus is on **Higgs pair production (HH → bbττ)** in Run-3 data, and on **efficient low-latency detector environments**, **ASIC/FPGA** chip design and co-design, and efficient **real-time ML** for **HEP detector**.
+I am also interested in **black-hole astrophysics** and **cosmology**.
 
 ---
 
