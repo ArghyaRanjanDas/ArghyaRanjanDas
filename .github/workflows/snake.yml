@@ -1,0 +1,57 @@
+name: Update particle snake
+
+on:
+  schedule:
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
+      - README.md
+      - scripts/generate_snake.py
+      - scripts/test_snake.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+
+      - name: Check particle simulation
+        run: python3 -m unittest discover -s scripts -p test_snake.py
+
+      - name: Generate animated and still SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 scripts/generate_snake.py --user "$PROFILE_USER"
+
+      - name: Commit changed SVGs
+        shell: bash
+        run: |
+          files=(
+            assets/github-snake.svg
+            assets/github-snake-dark.svg
+            assets/github-snake-still.svg
+            assets/github-snake-dark-still.svg
+          )
+          git add -- "${files[@]}"
+          if git diff --cached --quiet -- "${files[@]}"; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh contribution snake' -- "${files[@]}"
+          git push origin HEAD:main
