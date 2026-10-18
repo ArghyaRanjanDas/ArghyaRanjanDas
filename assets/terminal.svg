@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="442" viewBox="0 0 900 442" role="img" aria-labelledby="title desc">
   <title id="title">Arghya Ranjan Das</title>
-  <desc id="desc">Physics PhD candidate at Purdue University. CMS Collaboration at CERN, based at Fermilab. IISc alumnus. Tools: Python, C++, PyTorch, Linux. Goal: pondering the secrets of the cosmos.</desc>
+  <desc id="desc">Physics PhD candidate at Purdue University. CMS Collaboration at CERN, based at Fermilab. IISc alumnus. Tools: Python, C++, PyTorch, Linux, Neural networks. Status: Pondering upon the secret of cosmos.</desc>
   <!-- Formal field-theory path integral. Normalization, boundary conditions and
        the convergence prescription are implicit.
        Typeset with CodeCogs, then sampled onto a 1.5-unit square-pixel grid.
@@ -90,9 +90,9 @@
     <path d="M34 273H540" stroke="#2d3c4d"/>
     <g font-size="16">
       <text x="34" y="303" fill="#e8bf88">$ ls ~/tools/</text>
-      <text x="34" y="330" fill="#d8e2ec" xml:space="preserve">Python  C++  PyTorch  Linux</text>
-      <text x="34" y="366" fill="#e8bf88">$ cat ~/goal.txt</text>
-      <text x="34" y="393" fill="#d8e2ec">Pondering the secrets of the cosmos</text>
+      <text x="34" y="330" fill="#d8e2ec" xml:space="preserve">Python  C++  PyTorch  Linux  Neural networks</text>
+      <text x="34" y="366" fill="#e8bf88">$ cat ~/status.txt</text>
+      <text x="34" y="393" fill="#d8e2ec">Pondering upon the secret of cosmos</text>
     </g>
     <text x="34" y="430" font-size="15" fill="#8bd5ca">$ cd ~/links/ &amp;&amp; ls -F</text>
   </g>
